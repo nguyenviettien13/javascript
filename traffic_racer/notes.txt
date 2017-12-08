@@ -1,0 +1,11 @@
+??? Ham "$(function(){};" duoc goi khi nao?
+Khi chuong trinh chay thi ngay lap tuc "$(function(){};" duoc chay va ham nay chi duoc chay duy nhat mot lan
+
+??? "$(document).on()" duoc chay khi nao?
+Ham nay chay lien tuc khi chay chuong trinh, no luon lang nghe cac event, moi khi co event vi du nhu "keyup" thi function xu ly se duoc goi
+
+??? Hoat dong cua ham "requestAnimationFrame" la gi?
+Ham nay se yeu cau browser repaint lai man hinh, sau do se thuc hien ham ben trong ma requestanimationframe goi den! 
+Vi du: requestAnimationFrame(left) thi browser se repaint lai screen sau do thuc hien ham "left"
+
+??? Ham cancelAnimationFrame hoat dong nhu the nao?
